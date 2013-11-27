@@ -1,0 +1,397 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: zBench\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-09 13:23+0800\n"
+"PO-Revision-Date: 2013-11-21 01:04+0400\n"
+"Last-Translator: G.A.P <g.a.p@mail.ru>\n"
+"Language-Team: zwwooooo <http://zww.me/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Language: nb_NO\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:5 archive.php:33 index.php:20
+msgid "Error 404 - Not Found"
+msgstr "Ошибочка 404"
+
+#: 404.php:7 archive.php:36 index.php:23
+msgid "Sorry, but you are looking for something that isn&#8217;t here."
+msgstr "Простите, но здесь такого нет."
+
+#: 404.php:8 archive.php:37 index.php:24 sidebar.php:27
+msgid "Random Posts"
+msgstr "Случайные записи"
+
+#: 404.php:17 archive.php:46 index.php:33
+msgid "Tag Cloud"
+msgstr "Облачко зарубочек"
+
+#: archive.php:6
+msgid "Daily Archives:"
+msgstr "Архивы за день: "
+
+#: archive.php:8
+msgid "Monthly Archives:"
+msgstr "Архивы за месяц: "
+
+#: archive.php:10
+msgid "Yearly Archives:"
+msgstr "Архивы за год: "
+
+#: archive.php:12
+msgid "Category Archives:"
+msgstr "Архивы по рубрикам: "
+
+#: archive.php:14
+msgid "Tag Archives:"
+msgstr "Архив зарубочек:"
+
+#: archive.php:16
+msgid "Blog Archives"
+msgstr "Архив блога"
+
+#: archive.php:23 index.php:7 single.php:7
+msgid "Posted by"
+msgstr "Автор"
+
+#: archive.php:23 index.php:7 single.php:7
+msgid "on"
+msgstr "Размещено"
+
+#: archive.php:23 index.php:7 single.php:7
+msgid "Edit"
+msgstr "Изменить"
+
+#: archive.php:24 index.php:8
+msgid "None comments"
+msgstr "0 комментов"
+
+#: archive.php:24 index.php:8
+msgid "comments"
+msgstr "Комменты"
+
+#: archive.php:28 functions.php:97 index.php:12
+msgid "Read more &raquo;"
+msgstr "Читаем... &raquo;"
+
+#: archive.php:62 index.php:49
+msgid "&laquo; Previous page"
+msgstr "&laquo; Предыдущая страница"
+
+#: archive.php:62 index.php:49
+msgid "Next page &raquo;"
+msgstr "Следующая страница &raquo;"
+
+#: comments.php:10
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Упс. Запаролено. Комменты в обмен на пароль."
+
+#: comments.php:18
+msgid "Leave a comment ?"
+msgstr "Добавить коммент ?"
+
+#: comments.php:18
+msgid "Comments."
+msgstr "Коммент"
+
+#: comments.php:25
+msgid "Comments are closed."
+msgstr "Комменты закрыты"
+
+#: comments.php:92
+msgid "NOTE - You can use these "
+msgstr "Попробуйте использовать "
+
+#: comments.php:97
+msgid "NAME"
+msgstr "Имя*"
+
+#: comments.php:99
+msgid "EMAIL"
+msgstr "Почта*"
+
+#: comments.php:101
+msgid "Website URL"
+msgstr "Сылка"
+
+#: comments.php:108
+msgid "Leave a Comment"
+msgstr "Написать коммент"
+
+#: comments.php:109
+#, php-format
+msgid "Reply to %s &not;<br />"
+msgstr "Ответ %s &not;<br />"
+
+#: comments.php:110
+msgid "<small>Cancel reply</small>"
+msgstr "<small>Не отвечать</small>"
+
+#: comments.php:111
+msgid "SUBMIT"
+msgstr "Отправить"
+
+#: comments.php:120
+msgid "Trackbacks and Pingbacks:"
+msgstr "Трекбеки + Пингбеки:"
+
+#: footer.php:6
+msgid "Copyright"
+msgstr "Авторство"
+
+#: footer.php:10
+msgid "Top"
+msgstr "Верх"
+
+#: functions.php:4
+msgid "Primary Widget Area"
+msgstr "Главная область виждетов"
+
+#: functions.php:6
+msgid "The primary widget area"
+msgstr "Главная область виждетов"
+
+#: functions.php:13
+msgid "Singular Widget Area"
+msgstr "Особая область виджетов"
+
+#: functions.php:15
+msgid "The singular widget area"
+msgstr "Особая область виджетов"
+
+#: functions.php:22
+msgid "Not Singular Widget Area"
+msgstr "Не единичная область виджетов"
+
+#: functions.php:24
+msgid "Not the singular widget area"
+msgstr "Не единичная область виджетов"
+
+#: functions.php:31
+msgid "Footer Widget Area"
+msgstr "Нижняя область виджетов"
+
+#: functions.php:33
+msgid "The footer widget area"
+msgstr "Нижняя область виджетов"
+
+#: functions.php:51
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+#: functions.php:51
+msgid "[Edit]"
+msgstr "[Изменить]"
+
+#: functions.php:54
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш коммент на модерации"
+
+#: functions.php:117
+msgid "RSS URL"
+msgstr "RSS ссылка"
+
+#: functions.php:118
+msgid "Put your full rss subscribe address here.(with http://)"
+msgstr "Введите адрес RSS ленты.(начиная с http://)"
+
+#: functions.php:122
+msgid "twitter URL"
+msgstr "Ссылка на twitter"
+
+#: functions.php:123
+msgid ""
+"Put your full twitter address here.(with http:// , leave it blank for "
+"display none.)"
+msgstr "Введите ссылку на  twitter.(начиная с http://)"
+
+#: functions.php:127
+msgid "facebook URL"
+msgstr "Ссылка на facebook"
+
+#: functions.php:128
+msgid ""
+"Put your full facebook address here.(with http:// , leave it blank for no "
+"display none.)"
+msgstr "Введите ссылку на  facebook.(начиная с http://)"
+
+#: functions.php:132
+msgid "Excerpt?"
+msgstr "Отрывок？"
+
+#: functions.php:133
+msgid "If the home page and archive pages to display excerpt of post, check."
+msgstr ""
+"Отметьте здесь, чтобы показать выдержки из сообщений на главной странице и "
+"странице архива."
+
+#: functions.php:137
+msgid "Disable the comment notes"
+msgstr "Комменты закрыты"
+
+#: functions.php:138
+msgid ""
+"Disabling this will remove the note text that displays with more options for "
+"adding to comments (html)."
+msgstr ""
+"Отключить что бы удалить текст заметки, который отображает больше "
+"возможностей для добавления комментария (HTML)."
+
+#: functions.php:142
+msgid "Disable the comments smilies"
+msgstr "Отключить самйлы в комментах"
+
+#: functions.php:143
+msgid "Disabling this will remove the comments smilies."
+msgstr "Удалить смайлики из комментов."
+
+#: functions.php:152
+msgid "Theme Options"
+msgstr "Опции темы"
+
+#: functions.php:171
+#, php-format
+msgid "%1$s Theme Options"
+msgstr "%1$s Опции темы"
+
+#: functions.php:173
+msgid "Options saved"
+msgstr "Опции сохранены"
+
+#: functions.php:202
+msgid "Save Options"
+msgstr "Сохранить опции"
+
+#: functions.php:210
+msgid "Donation"
+msgstr "Пожертвовать"
+
+#: functions.php:212
+msgid ""
+"If you feel my work is useful and want to support the development of more "
+"free resources, you can donate me. Thank you very much!"
+msgstr ""
+"Если Вам понравилась моя работа, вы можете поддержать материально дальнейшую "
+"разработку. Спасибо!"
+
+#: header.php:17
+msgid "Home"
+msgstr "Главная"
+
+#: header.php:30
+msgid "RSS Feed"
+msgstr "RSS записей"
+
+#: header.php:32
+msgid "Follow me on twitter."
+msgstr "RSS комментов"
+
+#: header.php:35
+msgid "Facebook"
+msgstr "Google+"
+
+#: index.php:8
+msgid "1 comments"
+msgstr "1 коммент"
+
+#: index.php:15
+msgid "This is a sticky post!"
+msgstr "Запись прикреплена!"
+
+#: index.php:15
+msgid "continue reading?"
+msgstr "Читать дальше?"
+
+#: page.php:8 single.php:8
+msgid "Leave a comment"
+msgstr "Комментить"
+
+#: page.php:9 single.php:9
+msgid "Go to comments"
+msgstr "В комменты"
+
+#: page.php:17 single.php:14
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: searchform.php:2
+msgid "Search: type, hit enter"
+msgstr "Чего изволите?"
+
+#: searchform.php:3
+msgid "SEARCH"
+msgstr "Поиск"
+
+#: sidebar.php:15
+msgid "Recent Posts"
+msgstr "Последние записи"
+
+#: sidebar.php:39
+msgid "Search by Tags!"
+msgstr "Поиск по зарубочкам"
+
+#: sidebar.php:43
+msgid "Archives"
+msgstr "Архивы"
+
+#: sidebar.php:49
+msgid "Links"
+msgstr "Ссылки"
+
+#: sidebar.php:55
+msgid "Meta"
+msgstr "Вход"
+
+#: single.php:17
+msgid "Related Posts"
+msgstr "Похожие записи"
+
+#~ msgid "&raquo; Read more..."
+#~ msgstr "&raquo; 继续阅读..."
+
+#~ msgid "Continue reading"
+#~ msgstr "继续阅读？"
+
+#~ msgid "(Edit)"
+#~ msgstr "(编辑)"
+
+#~ msgid "Rss Url"
+#~ msgstr "订阅地址"
+
+#~ msgid "Update Options &raquo;"
+#~ msgstr "更新设置 &raquo;"
+
+#~ msgid "Reset Options &raquo;"
+#~ msgstr "恢复默认 &raquo;"
+
+#~ msgid "Disable the comment notes: HTML tags and attributes."
+#~ msgstr "关闭评论 HTML tags and attributes 的提示。"
+
+#~ msgid "Excerpt"
+#~ msgstr "摘录"
+
+#~ msgid "1% comments"
+#~ msgstr "1%条评论 "
+
+#~ msgid "% comments"
+#~ msgstr "1%条评论"
+
+#~ msgid "&nbsp;% comments"
+#~ msgstr "&nbsp;% 条评论"
+
+#, fuzzy
+#~ msgid "z % comments"
+#~ msgstr " % 条评论"
+
+#~ msgid "Please do not load this page directly. Thanks!"
+#~ msgstr "请不要直接加载这个页面。谢谢！"
+
+#~ msgid "404 Error - Not found"
+#~ msgstr "错误 404 - 没有找到"
